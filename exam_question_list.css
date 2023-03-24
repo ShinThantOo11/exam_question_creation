@@ -51,6 +51,8 @@ body {
 
 .create-exam-content {
   width: 500px !important;
+  overflow-y: scroll;
+  max-height: 85vh !important;
 }
 .fadeIn {
   animation: fadeIn 1s;
